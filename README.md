@@ -2,7 +2,6 @@
 
 ### :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🎓 Studying computer science at IHU SKG
-<br/>
 
 - 🌱 I’m currently learning **AngularJS, VueJS**
 <br/>
